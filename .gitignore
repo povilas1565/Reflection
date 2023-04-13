@@ -1,0 +1,9 @@
+*.log
+*.sqlite3
+__pycache__/
+*.py[cod]
+*.swp
+env/
+env1/
+env2/
+.idea
