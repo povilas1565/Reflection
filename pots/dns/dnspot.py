@@ -1,10 +1,10 @@
 import os
 import signal
 import threading
-from . import dns
 import core.potloader as potloader
 import core.utils as utils
-from .dblogger import DBThread
+from pots.dns import dns
+from pots.dns.dblogger import DBThread
 
 
 class DNSPot(potloader.PotLoader):
