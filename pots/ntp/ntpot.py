@@ -2,9 +2,9 @@ import os
 import signal
 import threading
 
-from . import ntp
+from pots.ntp import ntp
 import core.potloader as potloader
-from .dblogger import DBThread
+from pots.ntp.dblogger import DBThread
 import core.utils as utils
 
 class NTPot(potloader.PotLoader):
