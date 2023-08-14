@@ -83,4 +83,4 @@ if __name__ == "__main__":
     t.start()
     ntpot.potthread = t
     signal.signal(signal.SIGINT, ntpot.shutdown_signal_wrapper)
-    signal.pause()
+
