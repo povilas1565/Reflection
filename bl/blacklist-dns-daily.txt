@@ -1,2 +1,0 @@
-# dns blacklist
-# Daily list of scanners/attackers for period 2023-08-13 22:31:00.731962 - 2023-08-14 22:31:00.731962
