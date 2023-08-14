@@ -68,4 +68,4 @@ if __name__ == "__main__":
     t.start()
     dnspot.potthread = t
     signal.signal(signal.SIGINT, dnspot.shutdown_signal_wrapper)
-    signal.pause()
+
