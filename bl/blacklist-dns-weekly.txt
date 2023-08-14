@@ -1,0 +1,2 @@
+# dns blacklist
+# Weekly list of scanners/attackers for period 2023-08-07 22:31:00.731962 - 2023-08-14 22:31:00.731962
