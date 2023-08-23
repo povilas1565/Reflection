@@ -3,6 +3,7 @@ import signal
 import threading
 
 from core import potloader, utils
+from pots.ssdp import ssdp
 from pots.ssdp.dblogger import DBThread
 
 
