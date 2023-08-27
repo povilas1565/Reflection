@@ -3,6 +3,7 @@ import signal
 import threading
 
 from core import potloader, utils
+from pots.ssdp.dblogger import DBThread
 
 
 class SSDPot(potloader.PotLoader):
