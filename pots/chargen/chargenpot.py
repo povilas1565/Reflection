@@ -5,6 +5,7 @@ import threading
 import core.potloader as potloader
 import core.utils as utils
 from pots.chargen import chargen
+from pots.chargen.dblogger import DBThread
 
 
 class ChargenPot(potloader.PotLoader):
